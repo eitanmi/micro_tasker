@@ -2,7 +2,6 @@
 /**
  ******************************************************************************
  * @file    wain_wrapper.c
- * @author  SolarEdge Infrastructure Team
  * @brief   HAL module driver.
  *          This is the common part of the HAL package.
  *
