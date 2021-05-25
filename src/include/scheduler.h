@@ -1,11 +1,10 @@
 /**
  ******************************************************************************
- * @file    lv662_hal_xtask.h
- * @author  SolarEdge Infrastructure Team
+ * @file    scheduler.h
  * @brief
- *
- *  The ìxTaskî HAL module brings non-preemptive scheduling capability to the infrastructure.
- *  By ìnon preemptiveî we mean that it is up to the executing task to release the CPU to other pending tasks,
+ *  
+ *  Non preemptive simple scheduler.
+ *  By ‚Äúnon preemptive‚Äù we mean that it is up to the executing task to release the CPU to other pending tasks,
  *  the scheduler does not and cannot interrupt a task in the middle of its execution. Moreover,
  *  this scheduler is not using any prioritizing method but rather simply jumps from one task to another
  *  in the order of their creation.
