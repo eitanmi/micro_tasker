@@ -1,7 +1,6 @@
 /**
  ******************************************************************************
  * @file    win_wrapper.h
- * @author  SolarEdge Infrastructure Team.
  * @brief   WIN32 Access Layer Header File.
  ******************************************************************************
  * @attention
