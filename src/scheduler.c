@@ -1,7 +1,6 @@
 /**
   ******************************************************************************
   * @file    scheduler.c
-  * @author  SolarEdge Infrastructure Team
   * @brief   Scheduler HAL module driver.
   *
   *
