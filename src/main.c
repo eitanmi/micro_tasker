@@ -1,7 +1,6 @@
 /**
   ******************************************************************************
   * @file    main.c
-  * @author  SolarEdge Infrastructure Team
   * @brief   Sample file that demonstrates the scheduler.
   *
   *
